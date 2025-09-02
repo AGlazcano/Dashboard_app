@@ -1,0 +1,9 @@
+# requirements.txt
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.8
+seaborn>=0.12
+plotly>=5.20
+jupyterlab>=4.0
+ipykernel>=6.29
+notebook>=7.0
