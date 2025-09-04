@@ -2,6 +2,18 @@ import streamlit as st
 st.header(' Comparativa de trabajos ')
 st.write('Grafico , relacion entre   trabajos* sexo')
 
+st.title('mi' )
+
+
+
+
+
+
+
+
+
+
+
 
 
 from pathlib import Path
